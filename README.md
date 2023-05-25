@@ -16,4 +16,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Acesse o projeto online
 
-- https://giovannapfs.github.io/FatecEventos.github.io/
+- https://koralinee.github.io/Fatec-Eventos.github.io/
